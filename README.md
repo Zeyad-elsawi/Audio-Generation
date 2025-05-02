@@ -19,3 +19,6 @@ Plots for the time and frequency domains are generated at each stage, and the re
 
 ---
 
+![image](https://github.com/user-attachments/assets/5cc37ed3-470e-4be9-9ecb-56cb21215f8e)
+![image](https://github.com/user-attachments/assets/c6a151c9-2eaf-4708-9f14-654c598237d9)
+![image](https://github.com/user-attachments/assets/f10d22ad-d5bb-426b-9231-64e543a7751f)
